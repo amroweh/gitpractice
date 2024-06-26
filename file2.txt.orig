@@ -1,8 +1,0 @@
-This is a change from main branch
-updated file2 on b1
-<<<<<<< HEAD
-new update on b2
-=======
----
-new update on main
->>>>>>> main
