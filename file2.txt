@@ -3,3 +3,5 @@ updated file2 on b1
 ---
 new update on b2
 new update on main
+---
+new update on b3
