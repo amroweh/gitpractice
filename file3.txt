@@ -1,5 +1,1 @@
-This is a change from main branch
-this is a change of file3 on b1
----
-new update on b2
-new update on main
+refreshed main
